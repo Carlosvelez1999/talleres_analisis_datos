@@ -1,4 +1,6 @@
-Nombre del proyecto:
+Nombre del proyecto: Optimización y correlación del diseño de columnas y 
+configuración estructural para una edificación residencial de 11 pisos en
+Rionegro según la NSR-10.
 Problema:
 Solución:
 Pregunta SMART:
